@@ -1,4 +1,4 @@
-### Proving Ground Machines List 🌟
+### 🌟 Proving Ground Machines List 🌟
 
 <br/>
 <br/>
