@@ -4,4 +4,4 @@
 
 EASY | MEDIUM | HARD
 --- | --- | ---
-| | [Mr Robot](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Mr%20robot.pdf) |
+[**Agent Sudo**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Agent%20Sudo.pdf) | [**Mr Robot**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Mr%20robot.pdf) |
