@@ -11,4 +11,4 @@ EASY | MEDIUM | HARD
 [**Potato**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Potato.pdf) | |
 [**DC-1**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/DC-1.pdf) | |
 [**DC-2**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/DC-2.pdf) | |
-
+[**Gaara**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Gaara.pdf) | |
