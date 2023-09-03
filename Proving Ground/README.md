@@ -5,7 +5,7 @@
 
 EASY | MEDIUM | HARD
 --- | --- | ---
-[**Seppuku**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Seppuku.pdf) | |
+[**Seppuku**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Seppuku.pdf) | [**SoSimple**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/SoSimple.pdf) |
 [**Shakabrah**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Shakabrah.pdf) | |
 [**DriftingBlues6**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Driftingblues6.pdf) | |
 [**Potato**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Potato.pdf) | |
