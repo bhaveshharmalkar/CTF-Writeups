@@ -13,3 +13,4 @@ EASY | MEDIUM | HARD
 [**DC-2**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/DC-2.pdf) | |
 [**Gaara**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Gaara.pdf) | |
 [**PyExp**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Pyexp.pdf) | |
+[**SunsetNoontide**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetNoontide.pdf) | |
