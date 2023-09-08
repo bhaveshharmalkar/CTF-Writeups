@@ -9,3 +9,4 @@ EASY | MEDIUM | HARD
 [**Lazy Admin**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Lazy%20Admin.pdf)||
 [**Tom Ghost**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Tom%20Ghost.pdf)||
 [**Ignite**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Ignite.pdf)||
+[**Lian Yu**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Lian%20Yu.pdf)||
