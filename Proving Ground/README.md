@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-EASY | MEDIUM | HARD
+EASY | INTERMEDIATE | HARD
 --- | --- | ---
 [**Seppuku**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Seppuku.pdf) | [**SoSimple**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/SoSimple.pdf) |
 [**Shakabrah**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Shakabrah.pdf) | [**NoName**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/NoName.pdf) |
