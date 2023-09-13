@@ -15,3 +15,4 @@ EASY | INTERMEDIATE | HARD
 [**PyExp**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Pyexp.pdf) | |
 [**SunsetNoontide**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetNoontide.pdf) | |
 [**Photographer**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Photographer.pdf) | |
+[**BBSCute**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/BBSCute.pdf) | |
