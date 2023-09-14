@@ -16,3 +16,4 @@ EASY | INTERMEDIATE | HARD
 [**SunsetNoontide**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetNoontide.pdf) | |
 [**Photographer**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Photographer.pdf) | |
 [**BBSCute**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/BBSCute.pdf) | |
+[**Sar**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sar.pdf) | |
