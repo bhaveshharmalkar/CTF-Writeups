@@ -17,3 +17,4 @@ EASY | INTERMEDIATE | HARD
 [**Photographer**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Photographer.pdf) | |
 [**BBSCute**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/BBSCute.pdf) | |
 [**Sar**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sar.pdf) | |
+[**Katana**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Katana.pdf) | |
