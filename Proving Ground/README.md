@@ -18,3 +18,5 @@ EASY | INTERMEDIATE | HARD
 [**BBSCute**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/BBSCute.pdf) | |
 [**Sar**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sar.pdf) | |
 [**Katana**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Katana.pdf) | |
+[**Solstice**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Solstice.pdf) | |
+[**FunboxEasy**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/FunboxEasy.pdf) | |
