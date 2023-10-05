@@ -10,4 +10,4 @@ EASY | MEDIUM | HARD
 [**Tom Ghost**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Tom%20Ghost.pdf)| [**Cmess**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Cmess.pdf) |
 [**Ignite**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Ignite.pdf)| [**Dogcat**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Dogcat.pdf) |
 [**Lian Yu**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Lian%20Yu.pdf)| [**Boiler CTF**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Boiler%20CTF.pdf) |
-| | [**Blog**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Blog.pdf) | 
+[**Agent T**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Easy/Agent%20T.pdf) | [**Blog**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/TryHackMe/Medium/Blog.pdf) | 
