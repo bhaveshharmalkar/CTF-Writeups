@@ -31,3 +31,4 @@ EASY | INTERMEDIATE | HARD
 [**CyberSploit1**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/CyberSploit1.pdf) | |
 [**Amaterasu**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Amaterasu.pdf) | |
 [**SunsetDecoy**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetDecoy.pdf) | |
+[**Dawn**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Dawn.pdf) | |
