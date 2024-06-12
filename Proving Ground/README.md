@@ -32,3 +32,4 @@ EASY | INTERMEDIATE | HARD
 [**Amaterasu**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Amaterasu.pdf) | |
 [**SunsetDecoy**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetDecoy.pdf) | |
 [**Dawn**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Dawn.pdf) | |
+[**Blogger**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Blogger.pdf) | |
