@@ -34,3 +34,4 @@ EASY | INTERMEDIATE | HARD
 [**Dawn**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Dawn.pdf) | |
 [**Blogger**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Blogger.pdf) | |
 [**Sumo**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sumo.pdf) | |
+[**Monitoring**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Monitoring.pdf) | |
