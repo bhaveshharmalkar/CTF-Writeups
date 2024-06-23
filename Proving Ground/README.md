@@ -35,3 +35,4 @@ EASY | INTERMEDIATE | HARD
 [**Blogger**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Blogger.pdf) | |
 [**Sumo**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sumo.pdf) | |
 [**Monitoring**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Monitoring.pdf) | |
+[**Ha-natraj**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Ha-natraj.pdf) | |
