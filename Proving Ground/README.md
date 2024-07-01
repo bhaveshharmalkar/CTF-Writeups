@@ -13,7 +13,7 @@ EASY | INTERMEDIATE | HARD
 [**DC-2**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/DC-2.pdf) | [**BTRSys2.1**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/BTRSys2.1.pdf) |
 [**Gaara**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Gaara.pdf) | [**DC-9**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/DC-9.pdf) |
 [**PyExp**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Pyexp.pdf) | [**Funbox**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/Funbox.pdf) |
-[**SunsetNoontide**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetNoontide.pdf) | |
+[**SunsetNoontide**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/SunsetNoontide.pdf) | [**DC-4**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Medium/DC-4.pdf) |
 [**Photographer**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Photographer.pdf) | |
 [**BBSCute**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/BBSCute.pdf) | |
 [**Sar**](https://github.com/bhaveshharmalkar/CTF-Writeups/blob/main/Proving%20Ground/Easy/Sar.pdf) | |
